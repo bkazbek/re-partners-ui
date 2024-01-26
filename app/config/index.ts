@@ -1,1 +1,1 @@
-export const httpURL = `http://188.166.151.78:3000`;
+export const httpURL = `https://re-partners.kiyali.kz`;''
