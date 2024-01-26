@@ -72,7 +72,7 @@ export default function Page() {
             <p className="text-center font-normal text-gray-600">This is solution for Re-Partners challenge</p>
             <div className={"inline-flex justify-center w-[100%]"}>
               <button  className="mx-auto mt-10 block rounded-xl border-4 border-transparent bg-orange-400 px-6 py-3 text-center text-base font-medium text-orange-100 outline-8 hover:outline hover:duration-300">
-                <a href="https://kiyali.kz/swagger/index.html" target={"_blank"}>Swagger</a>
+                <a href="https://re-partners.kiyali.kz/swagger/index.html" target={"_blank"}>Swagger</a>
               </button>
             </div>
 
